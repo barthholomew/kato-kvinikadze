@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Rubik-VariableFont_wght';
+    src: url(fonts/Rubik-VariableFont_wght.eot);
+    src:url(fonts/Rubik-VariableFont_wght.otf) format('otf'),
+         url(fonts/Rubik-VariableFont_wght.svg) format('svg'),
+         url(fonts/Rubik-VariableFont_wght.ttf) format('truetype'),
+         url(fonts/Rubik-VariableFont_wght.woff) format('woff'),
+         url(fonts/Rubik-VariableFont_wght.woff2) format('woff2');
+  }
+  @font-face {
+    font-family: 'Anton-Regular';
+    src: url(fonts/Anton-Regular.eot);
+    src: url(fonts/Rubik-VariableFont_wght.otf) format('otf'),
+         url(fonts/Anton-Regular.svg) format('svg'),
+         url(fonts/Anton-Regular.ttf) format('truetype'),
+         url(fonts/Anton-Regular.woff) format('woff'),
+         url(fonts/Anton-Regular.woff2) format('woff2');
+  }

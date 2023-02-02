@@ -1,0 +1,78 @@
+.posterz {
+    height: 500px;
+}
+
+
+.art {
+ height: 360px;
+}
+
+header {display: flex
+    ;}
+   header {
+    display: flex; justify-content: space-between;
+
+    font-family: 'Anton-Regular';
+   }
+  ul {
+    display: flex; justify-content: space-between;
+  }
+  div {
+    height: auto; 
+    width: 350px;
+  }
+  .poto {
+    height: 320px;
+  }
+.header1 {
+    background-color: rgba(249, 176, 237, 0.984);
+    
+}
+  section {
+    background-color: rgba(198, 153, 203, 0.665);
+
+  }
+  footer {
+    background-color: rgb(194, 119, 164);
+  }
+  p {
+    color: black;
+
+  }
+ h1 {color: black;}
+ header {color: black;}
+
+p {
+    font-size: 20px;
+}
+p {
+    font-family: 'Rubik-VariableFont_wght';
+
+
+}
+form, input,label {
+    display: flex; justify-content: space-between;
+}
+#form
+{
+    display: flex; justify-content: space-between;
+}
+#form {
+    background-color: aliceblue;
+}
+#footertext { justify-content: left;
+    display: flex;
+    font-family: 'Anton-Regular';
+}
+.info {
+    width: 300px;
+}
+i {
+    color: darkorchid;
+}
+a {
+    color: blueviolet;
+}
+h2 {
+    font-family: 'Anton-Regular';
+}
